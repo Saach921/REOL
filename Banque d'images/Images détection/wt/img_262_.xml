@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Img_c_avec_eol</folder>
+	<filename>img_262_.png</filename>
+	<path>C:\Users\sacha\OneDrive\Documents\Mines ParisTech\1A\Informatique\REOL\Images_REOL_training\Img_c_avec_eol\img_262_.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>162</ymin>
+			<xmax>291</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>293</ymin>
+			<xmax>411</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

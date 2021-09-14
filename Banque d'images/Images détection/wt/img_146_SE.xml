@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Img_avec_eolienne</folder>
+	<filename>img_146_SE.png</filename>
+	<path>C:\Users\JP\Documents\Mines\S2\Projet Info\Code J Bressan\Img eoliennes\Img_avec_eolienne\img_146_SE.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>115</ymin>
+			<xmax>395</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>389</ymin>
+			<xmax>81</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

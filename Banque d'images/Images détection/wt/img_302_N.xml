@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Img à labelliser</folder>
+	<filename>img_302_N.png</filename>
+	<path>D:\Floren\Cours Mines de Paris\Informatique\Projet REOL\Images triées\Img à labelliser\img_302_N.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>197</ymin>
+			<xmax>43</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>84</ymin>
+			<xmax>430</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

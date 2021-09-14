@@ -1,0 +1,38 @@
+<annotation>
+	<folder>drive-download-20210619T185531Z-001</folder>
+	<filename>img_82_.png</filename>
+	<path>C:\Users\enzoa\OneDrive\Desktop\Mines\Projet info\Labélisation\Images avec éoliennes\drive-download-20210619T185531Z-001\img_82_.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>214</ymin>
+			<xmax>363</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>316</ymin>
+			<xmax>75</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

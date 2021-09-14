@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Img_avec_eolienne</folder>
+	<filename>img_173_NE.png</filename>
+	<path>C:\Users\JP\Documents\Mines\S2\Projet Info\Code J Bressan\Img eoliennes\Img_avec_eolienne\img_173_NE.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>302</ymin>
+			<xmax>184</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>43</ymin>
+			<xmax>368</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

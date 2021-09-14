@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Img_c_avec_eol</folder>
+	<filename>img_180_N.png</filename>
+	<path>C:\Users\sacha\OneDrive\Documents\Mines ParisTech\1A\Informatique\REOL\Images_REOL_training\Img_c_avec_eol\img_180_N.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>16</ymin>
+			<xmax>80</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>107</ymin>
+			<xmax>364</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

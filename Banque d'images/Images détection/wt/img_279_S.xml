@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Img à labelliser</folder>
+	<filename>img_279_S.png</filename>
+	<path>D:\Floren\Cours Mines de Paris\Informatique\Projet REOL\Images triées\Img à labelliser\img_279_S.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>371</ymin>
+			<xmax>78</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
